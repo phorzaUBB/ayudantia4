@@ -1,0 +1,2 @@
+node_modules/ -> Evitamos que se trackee en git el directorio node_modules
+.env -> Evitamos que se trackee el archivo .env
